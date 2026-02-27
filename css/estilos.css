@@ -5,7 +5,9 @@ body {
 }
 
 
-
+#fondotitle{
+background-color: rgb(253, 158, 34);
+}
 /* capa del fondo animado */
 #background {
   position: fixed;
